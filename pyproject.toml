@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cctv-logo-detector"
+version = "0.1.0"
+description = "Local CCTV person tracking and custom shirt-logo detection"
+requires-python = ">=3.9"
+dependencies = ["ultralytics>=8.3,<9", "opencv-python>=4.8,<5", "numpy>=1.23,<3", "lap>=0.5.12,<0.6"]
+
+[project.scripts]
+cctv-detector = "cctv_detector.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["cctv_detector*"]

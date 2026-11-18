@@ -1,0 +1,14 @@
+[
+  {
+    "file": "sample.mp4",
+    "bytes": 7299549,
+    "sha256": "0396717408f39d65d662d937c969dee8545258ab0b8004babcc0cebeabbc6daa",
+    "original_source": "/Users/keithlye/Downloads/sample.mp4"
+  },
+  {
+    "file": "AI Evaluation Test.pdf",
+    "bytes": 506158,
+    "sha256": "4a2707b837467c8d6b58fa2d883639c6686e6f1f4337cd08403aa89258dea067",
+    "original_source": "/Users/keithlye/Downloads/AI Evaluation Test.pdf"
+  }
+]

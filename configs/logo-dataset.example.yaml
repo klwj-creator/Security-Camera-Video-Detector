@@ -1,0 +1,8 @@
+# Copy this file and replace path with an ABSOLUTE dataset directory.
+# Split whole recording sessions before extracting frames.
+path: /absolute/path/to/logo-dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: target_logo

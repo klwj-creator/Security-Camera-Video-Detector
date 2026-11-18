@@ -1,0 +1,23 @@
+--- Page 1 ---
+ 
+AI EvaluaƟon 
+At FooƞallCam, we provide rich fooƞall data for retail stores as well as advanced analyƟcs and insights to help business 
+decision making. Our 3D sensor uses computer vision and complex AI algorithm to track fooƞall accurately. One of our 
+key features is staﬀ idenƟﬁcaƟon. 
+A person is idenƟﬁed as a staﬀ if s/he is wearing a staﬀ name tag, as shown below. 
+ 
+As an AI Engineer, you have a few hundred of video samples from our 3D sensor. Here, you are given 1 sample 
+(“sample.mp4”) which is the view from our 3D sensor. Within the clip, there is a person wearing the tag and walking 
+along the corridor. Below are 2 snapshot instances of the person, all other people are not wearing the tag: 
+       
+Tasks: 
+1. IdenƟfy which frames in the clip have the staﬀ present? 
+2. [Bonus] Locate the staﬀ xy coordinates when present in the clip. 
+InstrucƟons: 
+ Be creaƟve! Make assumpƟons when needed 
+ Free to use any tool, programming language, model to complete the task 
+ Use illustraƟon or visualizaƟon aids when possible 
+ Submit a 1-2 page documentaƟon on your soluƟon, highlight the key parts 
+ Submit your code script or repository link, if any 
+ Be prepared to explain your soluƟon during interview, and run your code on your laptop using another test video 
+on the spot 
